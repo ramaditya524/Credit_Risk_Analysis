@@ -2,7 +2,7 @@
 
 ![analysis_images](oversampling.PNG)
 
-![analysis_images](SMOTE oversampling.PNG)
+![analysis_images](SMOTE%20oversampling.PNG)
 
 ![analysis_images](undersampling.PNG)
 
